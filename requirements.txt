@@ -1,0 +1,4 @@
+numpy==1.24.3
+tensorflow==2.13.0
+keras==2.13.1
+nltk==3.8.1
